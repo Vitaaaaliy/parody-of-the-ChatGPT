@@ -71,5 +71,4 @@ conda install -c conda-forge tensorflow
 conda install numpy keras scikit-learn
 pip install tensorboard
 ```
-
 Таким образом, для вашей программы достаточно выполнить команды установки через `pip` и `conda`, которые я описала выше. Убедитесь, что у вас установлен Python 3 и pip, чтобы команды установки работали корректно.
